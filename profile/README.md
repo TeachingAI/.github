@@ -14,12 +14,15 @@
 > 学习AI、掌握AI、聚焦包含 AI 功能的应用程序的开发和落地、传播与AI有关的技术实践。如：LLMs、提示工程、函数调用、RAG&Embeddings、Agents、LLMs Tools、模型微调、Spring AI 等！       
 
 
-#### Spring AI 大模型支持扩展：
+#### Spring AI 大模型支持（官方支持）：
 
    + [x] [OpenAI ChatGPT 系列模型](https://platform.openai.com/docs/guides/gpt/chat-completions-api)（支持 [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)）
    + [x] [Anthropic Claude 系列模型](https://anthropic.com) (支持 AWS Claude)
    + [x] [Google PaLM2/Gemini 系列模型](https://developers.generativeai.google)
    + [x] [Mistral 系列模型](https://mistral.ai/)
+
+#### Spring AI 大模型支持（TeachingAI 扩展）：
+   
    + [x] [百度文心一言系列模型](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
    + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)
    + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
