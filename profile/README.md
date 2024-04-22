@@ -16,15 +16,21 @@
 
 #### Spring AI 大模型支持（官方支持）：
 
-   + [x] [OpenAI ChatGPT 系列模型](https://platform.openai.com/docs/guides/gpt/chat-completions-api)（支持 [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)）
-   + [x] [Anthropic Claude 系列模型](https://anthropic.com) (支持 AWS Claude)
-   + [x] [Google PaLM2/Gemini 系列模型](https://developers.generativeai.google)
+   + [x] [OpenAI ChatGPT 系列模型](https://platform.openai.com/docs/guides/gpt/chat-completions-api)
+   + [x] [Amazon Bedrock 系列模型](https://aws.amazon.com/cn/bedrock/)
+   + [x] [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)
+   + [x] [Anthropic Claude 系列模型](https://anthropic.com)
    + [x] [Mistral 系列模型](https://mistral.ai/)
+   + [x] [Ollama](https://github.com/ollama/ollama)
+   + [x] [Google PaLM2/Gemini 系列模型](https://developers.generativeai.google)
+   + [x] [StabilityAI 系列模型](https://platform.stability.ai/)
 
 #### Spring AI 大模型支持（TeachingAI 扩展）：
    
    + [x] [百度文心一言系列模型](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
    + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)
+   + [x] [华为盘古大模型](https://www.huaweicloud.com/product/pangu.html)
+   + [x] [华为 AI Gallery 系列模型](https://pangu.huaweicloud.com/gallery/home.html)
    + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
    + [x] [智谱 ChatGLM 系列模型](https://bigmodel.cn)
    + [ ] [360 智脑](https://ai.360.cn)
@@ -34,7 +40,12 @@
    + [ ] [字节云雀大模型](https://www.volcengine.com/product/ark) (WIP)
    + [ ] [MINIMAX](https://api.minimax.chat/)
    + [ ] [Groq](https://wow.groq.com/)
-   + [x] [Ollama](https://github.com/ollama/ollama)
    + [ ] [零一万物](https://platform.lingyiwanwu.com/)
    + [ ] [阶跃星辰](https://platform.stepfun.com/)
    + [ ] [Coze](https://www.coze.com/)
+   + [x] LLM Red Team 开源组织开发的 [LLMs Free API](https://github.com/orgs/LLM-Red-Team/repositories?q=free-api)
+
+#### Spring AI 大模型工具支持（TeachingAI 扩展）：
+
+   + [ ] [LangFuse](https://langfuse.com/)
+   + [ ] [Prometheus](https://github.com/prometheus)
