@@ -10,3 +10,25 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+1. 支持多种大模型：
+   + [x] [OpenAI ChatGPT 系列模型](https://platform.openai.com/docs/guides/gpt/chat-completions-api)（支持 [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)）
+   + [x] [Anthropic Claude 系列模型](https://anthropic.com) (支持 AWS Claude)
+   + [x] [Google PaLM2/Gemini 系列模型](https://developers.generativeai.google)
+   + [x] [Mistral 系列模型](https://mistral.ai/)
+   + [x] [百度文心一言系列模型](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
+   + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)
+   + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
+   + [x] [智谱 ChatGLM 系列模型](https://bigmodel.cn)
+   + [ ] [360 智脑](https://ai.360.cn)
+   + [ ] [腾讯混元大模型](https://cloud.tencent.com/document/product/1729)
+   + [x] [Moonshot AI](https://platform.moonshot.cn/)
+   + [ ] [百川大模型](https://platform.baichuan-ai.com)
+   + [ ] [字节云雀大模型](https://www.volcengine.com/product/ark) (WIP)
+   + [ ] [MINIMAX](https://api.minimax.chat/)
+   + [ ] [Groq](https://wow.groq.com/)
+   + [x] [Ollama](https://github.com/ollama/ollama)
+   + [ ] [零一万物](https://platform.lingyiwanwu.com/)
+   + [ ] [阶跃星辰](https://platform.stepfun.com/)
+   + [ ] [Coze](https://www.coze.com/)
