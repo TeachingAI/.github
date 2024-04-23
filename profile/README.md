@@ -34,22 +34,32 @@
       + [ ] [spring-ai-aliyun-qianwen-spring-boot-starter](https://github.com/teachingai/spring-ai-aliyun-qianwen-spring-boot-starter) 
    + [x] [华为盘古大模型](https://www.huaweicloud.com/product/pangu.html)         
       + [x] [spring-ai-huawei-ai-pangu-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-pangu-spring-boot-starter)
-      + [x] [spring-ai-huawei-ai-gallery-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-gallery-spring-boot-starter)
-      + [ ] spring-ai-huawei-ai-vector-store-spring-boot-starter
+      + [ ] spring-ai-huawei-ai-vector-store-spring-boot-starter （待实现）
    + [x] [华为 AI Gallery 系列模型](https://pangu.huaweicloud.com/gallery/home.html)
+      + [x] [spring-ai-huawei-ai-gallery-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-gallery-spring-boot-starter)
    + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
+        + [ ] spring-ai-xfyun-xinghuo-spring-boot-starter （待实现）
    + [x] [智谱 ChatGLM 系列模型](https://bigmodel.cn)
+      + [x] [spring-ai-zhipuai-spring-boot-starter](https://github.com/teachingai/spring-ai-zhipuai-spring-boot-starter)  
    + [ ] [360 智脑](https://ai.360.cn)
+        + [ ] spring-ai-360ai-qiyuan-spring-boot-starter （待实现）
    + [ ] [腾讯混元大模型](https://cloud.tencent.com/document/product/1729)
+        + [ ] spring-ai-tencent-hunyuan-spring-boot-starter （待实现）
    + [x] [Moonshot AI](https://platform.moonshot.cn/)         
       + [x] [spring-ai-moonshotai-spring-boot-starter](https://github.com/teachingai/spring-ai-moonshotai-spring-boot-starter)         
    + [ ] [百川大模型](https://platform.baichuan-ai.com)
+        + [ ] spring-ai-baichuan-ai-baichuan-spring-boot-starter （待实现）
    + [ ] [字节云雀大模型](https://www.volcengine.com/product/ark) (WIP)
    + [ ] [MINIMAX](https://api.minimax.chat/)
+        + [ ] spring-ai-minimax-spring-boot-starter （待实现）
    + [ ] [Groq](https://wow.groq.com/)
+        + [ ] spring-ai-groq-spring-boot-starter （待实现）
    + [ ] [零一万物](https://platform.lingyiwanwu.com/)
+        + [ ] spring-ai-lingyiwanwu-spring-boot-starter （待实现）
    + [ ] [阶跃星辰](https://platform.stepfun.com/)
+        + [ ] spring-ai-stepfun-spring-boot-starter （待实现）
    + [ ] [Coze](https://www.coze.com/)
+        + [ ] spring-ai-coze-spring-boot-starter （待实现）
    + [x] LLM Red Team 开源组织开发的 [LLMs Free API](https://github.com/orgs/LLM-Red-Team/repositories?q=free-api)
       + [x] [spring-ai-llms-free-api-spring-boot-starter](https://github.com/teachingai/spring-ai-llms-free-api-spring-boot-starter)
 
