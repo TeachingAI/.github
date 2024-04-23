@@ -62,8 +62,14 @@
         + [ ] spring-ai-coze-spring-boot-starter （待实现）
    + [x] LLM Red Team 开源组织开发的 [LLMs Free API](https://github.com/orgs/LLM-Red-Team/repositories?q=free-api)
       + [x] [spring-ai-llms-free-api-spring-boot-starter](https://github.com/teachingai/spring-ai-llms-free-api-spring-boot-starter)
+   + [ ] 昆仑万维天工
+      + [ ] spring-ai-skywork-spring-boot-starter （待实现）
+   + [ ] 商汤大模型
+      + [ ] spring-ai-sensetime-spring-boot-starter （待实现）
 
 #### Spring AI 大模型工具支持（TeachingAI 扩展）：
 
    + [ ] [LangFuse](https://langfuse.com/)
+      + [ ] spring-ai-langfuse-spring-boot-starter （待实现）
    + [ ] [Prometheus](https://github.com/prometheus)
+      + [ ] spring-ai-prometheus-spring-boot-starter （待实现）
