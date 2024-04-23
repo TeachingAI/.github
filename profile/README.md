@@ -28,14 +28,20 @@
 #### Spring AI 大模型支持（TeachingAI 扩展）：
    
    + [x] [百度文心一言系列模型](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
-   + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)
-   + [x] [华为盘古大模型](https://www.huaweicloud.com/product/pangu.html)
+         
+      + [x] [spring-ai-baidu-ai-qianfan-spring-boot-starter](https://github.com/teachingai/spring-ai-baidu-ai-qianfan-spring-boot-starter)            
+   + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)         
+      + [ ] [spring-ai-aliyun-qianwen-spring-boot-starter](https://github.com/teachingai/spring-ai-aliyun-qianwen-spring-boot-starter) 
+   + [x] [华为盘古大模型](https://www.huaweicloud.com/product/pangu.html)         
+      + [x] [spring-ai-baidu-ai-qianfan-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-pangu-spring-boot-starter)
+      + [x] [spring-ai-baidu-ai-vector-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-gallery-spring-boot-starter)   
    + [x] [华为 AI Gallery 系列模型](https://pangu.huaweicloud.com/gallery/home.html)
    + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
    + [x] [智谱 ChatGLM 系列模型](https://bigmodel.cn)
    + [ ] [360 智脑](https://ai.360.cn)
    + [ ] [腾讯混元大模型](https://cloud.tencent.com/document/product/1729)
-   + [x] [Moonshot AI](https://platform.moonshot.cn/)
+   + [x] [Moonshot AI](https://platform.moonshot.cn/)         
+      + [x] [spring-ai-moonshotai-spring-boot-starter](https://github.com/teachingai/spring-ai-moonshotai-spring-boot-starter)         
    + [ ] [百川大模型](https://platform.baichuan-ai.com)
    + [ ] [字节云雀大模型](https://www.volcengine.com/product/ark) (WIP)
    + [ ] [MINIMAX](https://api.minimax.chat/)
@@ -44,6 +50,7 @@
    + [ ] [阶跃星辰](https://platform.stepfun.com/)
    + [ ] [Coze](https://www.coze.com/)
    + [x] LLM Red Team 开源组织开发的 [LLMs Free API](https://github.com/orgs/LLM-Red-Team/repositories?q=free-api)
+      + [x] [spring-ai-llms-free-api-spring-boot-starter](https://github.com/teachingai/spring-ai-llms-free-api-spring-boot-starter)
 
 #### Spring AI 大模型工具支持（TeachingAI 扩展）：
 
