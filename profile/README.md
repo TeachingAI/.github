@@ -31,7 +31,7 @@
               
       + [x] [spring-ai-baidu-ai-qianfan-spring-boot-starter](https://github.com/teachingai/spring-ai-baidu-ai-qianfan-spring-boot-starter)            
    + [ ] [阿里通义千问系列模型](https://help.aliyun.com/document_detail/2400395.html)         
-      + [ ] [spring-ai-aliyun-qianwen-spring-boot-starter](https://github.com/teachingai/spring-ai-aliyun-qianwen-spring-boot-starter) 
+      + [ ] [spring-ai-aliyun-dashscope-spring-boot-starter](https://github.com/teachingai/spring-ai-aliyun-dashscope-spring-boot-starter) 
    + [x] [华为盘古大模型](https://www.huaweicloud.com/product/pangu.html)         
       + [x] [spring-ai-huawei-ai-pangu-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-pangu-spring-boot-starter)
       + [ ] spring-ai-huawei-ai-vector-store-spring-boot-starter （待实现）
