@@ -24,6 +24,8 @@
    + [x] [Ollama](https://github.com/ollama/ollama)
    + [x] [Google PaLM2/Gemini 系列模型](https://developers.generativeai.google)
    + [x] [StabilityAI 系列模型](https://platform.stability.ai/)
+   + [x] [ZhiPu AI 系列模型](https://platform.stability.ai/)
+   + [x] [MiniMax 系列模型](https://platform.minimaxi.com/)
 
 #### Spring AI 大模型支持（TeachingAI 扩展）：
    
@@ -38,9 +40,7 @@
    + [x] [华为 AI Gallery 系列模型](https://pangu.huaweicloud.com/gallery/home.html)
       + [x] [spring-ai-huawei-ai-gallery-spring-boot-starter](https://github.com/teachingai/spring-ai-huawei-ai-gallery-spring-boot-starter)
    + [ ] [讯飞星火认知大模型](https://www.xfyun.cn/doc/spark/Web.html)
-        + [ ] spring-ai-xfyun-xinghuo-spring-boot-starter （待实现）
-   + [x] [智谱 ChatGLM 系列模型](https://bigmodel.cn)
-      + [x] [spring-ai-zhipuai-spring-boot-starter](https://github.com/teachingai/spring-ai-zhipuai-spring-boot-starter)  
+        + [ ] spring-ai-xfyun-xinghuo-spring-boot-starter （待实现） 
    + [ ] [360 智脑](https://ai.360.cn)
         + [ ] spring-ai-360ai-qiyuan-spring-boot-starter （待实现）
    + [ ] [腾讯混元大模型](https://cloud.tencent.com/document/product/1729)
